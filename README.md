@@ -1,5 +1,7 @@
 # Analyzing-Social-Media-Data-for-Social-Science
 
+slides https://docs.google.com/presentation/d/111MeIrf5WzlFxnRDhxTD6UuAz3kCEXXrKQhGHL6A4Is/edit?usp=sharing
+
 
 # Welcome to this tutorial!
 If you are from a social science background and want to learn programming and data science step by step, this is the right place :)
