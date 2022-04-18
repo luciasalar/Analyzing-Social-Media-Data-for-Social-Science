@@ -4,11 +4,11 @@ slides https://docs.google.com/presentation/d/111MeIrf5WzlFxnRDhxTD6UuAz3kCEXXrK
 
 
 # Welcome to this tutorial!
-If you are from a social science background and want to learn programming and data science step by step, this is the right place :)
+If you are from a social science background and want to learn programming and data science step by step, this is the right place :)  Previous programming knowledge is not required.
 
 
 # Prerequisites
-Please make sure to install Python, Jupyter notebook, and Anaconda (optional) before the start of the workshop. Previous programming knowledge is not required.
+Please make sure to install Python, Jupyter notebook, Anaconda (optional) and the required packages before you come to the workshop.
 
 Setting up your environment
 ## Packages required:
