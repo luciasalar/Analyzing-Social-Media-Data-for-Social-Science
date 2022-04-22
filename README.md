@@ -1,6 +1,8 @@
 # Analyzing-Social-Media-Data-for-Social-Science
 
 slides https://docs.google.com/presentation/d/111MeIrf5WzlFxnRDhxTD6UuAz3kCEXXrKQhGHL6A4Is/edit?usp=sharing
+email: lucia.chen@stanford.edu
+Twitter/Youtube: ML_made_simple
 
 
 # Welcome to this tutorial!
