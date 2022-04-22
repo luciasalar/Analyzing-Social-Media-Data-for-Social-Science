@@ -2,7 +2,7 @@
 
 slides https://docs.google.com/presentation/d/111MeIrf5WzlFxnRDhxTD6UuAz3kCEXXrKQhGHL6A4Is/edit?usp=sharing
 
-email: lucia.chen@stanford.edu
+email: lucia.chen AT stanford.edu
 
 Twitter/Youtube: ML_made_simple
 
